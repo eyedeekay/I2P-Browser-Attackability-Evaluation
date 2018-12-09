@@ -1,6 +1,6 @@
 ## elinks
 
-  * [elinks](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/elinks)(On Debian GNU/Linux)
+  * [elinks](https://github.com/eyedeekay/various-i2p-browsers/tree/master/elinks)(On Debian GNU/Linux)
 
 ```sh
 # Command used:

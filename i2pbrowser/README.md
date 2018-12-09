@@ -1,6 +1,6 @@
 ## Whonix i2pbrowser running on Debian GNU/Linux
 
-  * [i2pbrowser](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/i2pbrowser)(Debian GNU/Linux modified with Whonix repositories)
+  * [i2pbrowser](https://github.com/eyedeekay/various-i2p-browsers/tree/master/i2pbrowser)(Debian GNU/Linux modified with Whonix repositories)
 
 ```sh
 # Reproduce:
@@ -11,7 +11,7 @@
 
 ## Whonix i2pbrowser running on Whonix
 
-  * [i2pbrowser](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/i2pbrowser)(Whonix repositories)
+  * [i2pbrowser](https://github.com/eyedeekay/various-i2p-browsers/tree/master/i2pbrowser)(Whonix repositories)
 
 ```sh
 # Reproduce:

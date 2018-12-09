@@ -1,6 +1,6 @@
 ## Deliberately misconfigured Firefox(HTTPS leak)
 
-  * [misconfigured firefox](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/firefox-esr)(Windows 10)
+  * [misconfigured firefox](https://github.com/eyedeekay/various-i2p-browsers/tree/master/firefox-esr)(Windows 10)
 
 ```sh
 # Reproduce:
@@ -11,7 +11,7 @@
 
 ## Minimal correct configuration for Firefox
 
-  * [Minimally configured firefox](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/firefox-esr)(Windows 10)
+  * [Minimally configured firefox](https://github.com/eyedeekay/various-i2p-browsers/tree/master/firefox-esr)(Windows 10)
 
 ```sh
 # Reproduce:

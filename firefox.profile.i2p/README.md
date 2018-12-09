@@ -1,6 +1,6 @@
 ## Semi-Official Firefox Browser Profile
 
-  * [firefox.profile.i2p](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/firefox.profile.i2p/)(Windows 10)
+  * [firefox.profile.i2p](https://github.com/eyedeekay/various-i2p-browsers/tree/master/firefox.profile.i2p/)(Windows 10)
 
 ```sh
 # Reproduce:
