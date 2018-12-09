@@ -1,6 +1,6 @@
 ## lynx
 
-  * [lynx](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/firefox.profile.i2p/lynx)(On Debian GNU/Linux)
+  * [lynx](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/lynx)(On Debian GNU/Linux)
 
 ```sh
 # Command used:

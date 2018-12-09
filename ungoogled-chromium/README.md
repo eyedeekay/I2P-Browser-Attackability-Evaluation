@@ -1,6 +1,6 @@
 ## ungoogled-chromium incognito mode
 
-  * [ungoogled-chromium](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/firefox.profile.i2p/ungoogled-chromium)(On Debian GNU/Linux)
+  * [ungoogled-chromium](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/ungoogled-chromium)(On Debian GNU/Linux)
 
 ```sh
 # Command used:

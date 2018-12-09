@@ -4,7 +4,7 @@ context, and where possible, reducing it via whatever available configuration.
 
 ## Semi-Official Firefox Browser Profile
 
-  * [firefox.profile.i2p](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/firefox.profile.i2p/firefox.profile.i2p)(Windows 10)
+  * [firefox.profile.i2p](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/firefox.profile.i2p/)(Windows 10)
 
 ```sh
 # Reproduce:
@@ -15,7 +15,7 @@ context, and where possible, reducing it via whatever available configuration.
 
 ## Deliberately misconfigured Firefox(HTTPS leak)
 
-  * [misconfigured firefox](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/firefox.profile.i2p/firefox-esr)(Windows 10)
+  * [misconfigured firefox](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/firefox-esr)(Windows 10)
 
 ```sh
 # Reproduce:
@@ -26,7 +26,7 @@ context, and where possible, reducing it via whatever available configuration.
 
 ## Minimal correct configuration for Firefox
 
-  * [Minimally configured firefox](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/firefox.profile.i2p/firefox-esr)(Windows 10)
+  * [Minimally configured firefox](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/firefox-esr)(Windows 10)
 
 ```sh
 # Reproduce:
@@ -37,7 +37,7 @@ context, and where possible, reducing it via whatever available configuration.
 
 ## lynx
 
-  * [lynx](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/firefox.profile.i2p/lynx)(On Debian GNU/Linux)
+  * [lynx](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/lynx)(On Debian GNU/Linux)
 
 ```sh
 # Command used:
@@ -48,7 +48,7 @@ http_proxy=http:/127.0.0.1:4444 \/usr/bin/lynx http:/rcwtb3h46mcsm4jkpg5buinikn3
 
 ## elinks
 
-  * [elinks](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/firefox.profile.i2p/elinks)(On Debian GNU/Linux)
+  * [elinks](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/elinks)(On Debian GNU/Linux)
 
 ```sh
 # Command used:
@@ -59,7 +59,7 @@ http_proxy=http:/127.0.0.1:4444 \/usr/bin/elinks http:/rcwtb3h46mcsm4jkpg5buinik
 
 ## ungoogled-chromium incognito mode
 
-  * [ungoogled-chromium](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/firefox.profile.i2p/ungoogled-chromium)(On Debian GNU/Linux)
+  * [ungoogled-chromium](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/ungoogled-chromium)(On Debian GNU/Linux)
 
 ```sh
 # Command used:
@@ -68,7 +68,7 @@ http_proxy=http:/127.0.0.1:4444 \/usr/bin/elinks http:/rcwtb3h46mcsm4jkpg5buinik
 
 ## Whonix i2pbrowser running on Debian GNU/Linux
 
-  * [i2pbrowser](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/firefox.profile.i2p/i2pbrowser)(Debian GNU/Linux modified with Whonix repositories)
+  * [i2pbrowser](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/i2pbrowser)(Debian GNU/Linux modified with Whonix repositories)
 
 ```sh
 # Reproduce:
@@ -79,7 +79,7 @@ http_proxy=http:/127.0.0.1:4444 \/usr/bin/elinks http:/rcwtb3h46mcsm4jkpg5buinik
 
 ## Whonix i2pbrowser running on Whonix
 
-  * [i2pbrowser](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/firefox.profile.i2p/i2pbrowser)(Whonix repositories)
+  * [i2pbrowser](https:/github.com/eyedeekay/various-i2p-browsers/tree/master/i2pbrowser)(Whonix repositories)
 
 ```sh
 # Reproduce:
