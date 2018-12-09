@@ -19,3 +19,4 @@
   2: Copy-paste the following base32 address: http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
   3: Press the fingerprint button.
 ```
+
