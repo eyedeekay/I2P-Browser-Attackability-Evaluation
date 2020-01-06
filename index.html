@@ -36,53 +36,38 @@ context, and where possible, reducing it via whatever available configuration.</
 <li>Standalone Page: <a href="https://github.com/eyedeekay/various-i2p-browsers/tree/master/firefox-extension/">firefox.profile.i2p</a></li>
 <li>Tested on: Debian GNU/Linux, OSX</li>
 <li>Source Code used for Test: https://github.com/eyedeekay/I2P-in-Private-Browsing-Mode-Firefox</li>
-<li>Home Page: <a href="https://eyedeekay.github.io/I2P-in-Private-Browsing-Mode-Firefox">I2P in Private Browsing Mode</a>(Debian GNU/Linux)</li>
-</ul>
+<li><p>Home Page: <a href="https://eyedeekay.github.io/I2P-in-Private-Browsing-Mode-Firefox">I2P in Private Browsing Mode</a>(Debian GNU/Linux)</p>
 
-<p>```sh</p>
-
-<h1>Reproduce:</h1>
-
-<p>1: Install I2P in Private Browsing Mode from <a href="https://addons.mozilla.org/en-US/firefox/addon/i2p-in-private-browsing/">addons.mozilla.org</a>
+<pre><code># Reproduce:
+  1: Install I2P in Private Browsing Mode from [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/i2p-in-private-browsing/)
   2: Copy-paste the following base32 address: http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
   3: Press the fingerprint button.
-```</p>
+</code></pre>
 
-<h2>I2P Browsing Persona + I2P Proxifier Plugin on Chromium</h2>
-
-<ul>
-<li>Standalone Page: <a href="https://github.com/eyedeekay/various-i2p-browsers/tree/master/chrome-extension/">firefox.profile.i2p</a></li>
+<h2>I2P Browsing Persona + I2P Proxifier Plugin on Chromium</h2></li>
+<li><p>Standalone Page: <a href="https://github.com/eyedeekay/various-i2p-browsers/tree/master/chrome-extension/">firefox.profile.i2p</a></p></li>
 <li>Tested on: Windows 10, Debian GNU/Linux</li>
 <li>Source Code used for Test: https://github.com/eyedeekay/I2P-Configuration-for-Chromium</li>
-<li><a href="https://eyedeekay.github.io/I2P-Configuration-For-Chromium">Chromium Configuration</a>(Debian GNU/Linux)</li>
-</ul>
+<li><p><a href="https://eyedeekay.github.io/I2P-Configuration-For-Chromium">Chromium Configuration</a>(Debian GNU/Linux)</p>
 
-<p>```sh</p>
-
-<h1>Reproduce:</h1>
-
-<p>1: Install extension via the instructions
+<pre><code># Reproduce:
+  1: Install extension via the instructions
   2: Copy-paste the following base32 address: http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
   3: Press the fingerprint button.
-```</p>
+</code></pre>
 
-<h2>Deliberately misconfigured Firefox(HTTPS leak)</h2>
-
-<ul>
-<li>Standalone Page: <a href="https://github.com/eyedeekay/various-i2p-browsers/tree/master/firefox-esr">misconfigured firefox</a></li>
+<h2>Deliberately misconfigured Firefox(HTTPS leak)</h2></li>
+<li><p>Standalone Page: <a href="https://github.com/eyedeekay/various-i2p-browsers/tree/master/firefox-esr">misconfigured firefox</a></p></li>
 <li>Tested on: Windows 10</li>
 <li>Source Code used for Test: N/A</li>
-<li>Home Page: N/A</li>
-</ul>
+<li><p>Home Page: N/A</p>
 
-<p>```sh</p>
-
-<h1>Reproduce:</h1>
-
-<p>1: Configure Firefox to use a proxy by setting the common network settings
+<pre><code># Reproduce:
+  1: Configure Firefox to use a proxy by setting the common network settings
   2: Copy-paste the following base32 address: http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
   3: Press the fingerprint button.
-```</p>
+</code></pre></li>
+</ul>
 
 <h2>Minimal correct configuration for Firefox</h2>
 
@@ -90,45 +75,33 @@ context, and where possible, reducing it via whatever available configuration.</
 <li>Standalone Page: <a href="https://github.com/eyedeekay/various-i2p-browsers/tree/master/firefox-esr">Minimally configured firefox</a></li>
 <li>Tested on: Windows 10</li>
 <li>Source Code used for Test: N/A</li>
-<li>Home Page: N/A</li>
-</ul>
+<li><p>Home Page: N/A</p>
 
-<p>```sh</p>
-
-<h1>Reproduce:</h1>
-
-<p>1: Configure Firefox to use a proxy by setting the common network settings
+<pre><code># Reproduce:
+  1: Configure Firefox to use a proxy by setting the common network settings
   2: Copy-paste the following base32 address: http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
   3: Press the fingerprint button.
-```</p>
+</code></pre>
 
-<h2>lynx</h2>
+<h2>lynx</h2></li>
+<li><p><a href="https://github.com/eyedeekay/various-i2p-browsers/tree/master/lynx">lynx</a>(On Debian GNU/Linux)</p>
 
-<ul>
-<li><a href="https://github.com/eyedeekay/various-i2p-browsers/tree/master/lynx">lynx</a>(On Debian GNU/Linux)</li>
+<pre><code># Command used:
+http_proxy=http:/127.0.0.1:4444 \/usr/bin/lynx http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
+</code></pre></li>
 </ul>
-
-<p>```sh</p>
-
-<h1>Command used:</h1>
-
-<p>http_proxy=http:/127.0.0.1:4444 \/usr/bin/lynx http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
-```</p>
 
 <p><img src="https://github.com/eyedeekay/various-i2p-browsers/raw/master/lynx/lynx.png" alt="lynx scrot" title="" /></p>
 
 <h2>elinks</h2>
 
 <ul>
-<li><a href="https://github.com/eyedeekay/various-i2p-browsers/tree/master/elinks">elinks</a>(On Debian GNU/Linux)</li>
+<li><p><a href="https://github.com/eyedeekay/various-i2p-browsers/tree/master/elinks">elinks</a>(On Debian GNU/Linux)</p>
+
+<pre><code># Command used:
+http_proxy=http:/127.0.0.1:4444 \/usr/bin/elinks http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
+</code></pre></li>
 </ul>
-
-<p>```sh</p>
-
-<h1>Command used:</h1>
-
-<p>http_proxy=http:/127.0.0.1:4444 \/usr/bin/elinks http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
-```</p>
 
 <p><img src="https://github.com/eyedeekay/various-i2p-browsers/raw/master/elinks/elinks.png" alt="elinks scrot" title="" /></p>
 

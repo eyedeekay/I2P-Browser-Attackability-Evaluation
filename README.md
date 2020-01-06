@@ -26,12 +26,10 @@ context, and where possible, reducing it via whatever available configuration.
   * Source Code used for Test: https://github.com/eyedeekay/I2P-in-Private-Browsing-Mode-Firefox
   * Home Page: [I2P in Private Browsing Mode](https://eyedeekay.github.io/I2P-in-Private-Browsing-Mode-Firefox)(Debian GNU/Linux)
 
-```sh
-# Reproduce:
-  1: Install I2P in Private Browsing Mode from [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/i2p-in-private-browsing/)
-  2: Copy-paste the following base32 address: http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
-  3: Press the fingerprint button.
-```
+        # Reproduce:
+          1: Install I2P in Private Browsing Mode from [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/i2p-in-private-browsing/)
+          2: Copy-paste the following base32 address: http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
+          3: Press the fingerprint button.
 ## I2P Browsing Persona + I2P Proxifier Plugin on Chromium
 
   * Standalone Page: [firefox.profile.i2p](https://github.com/eyedeekay/various-i2p-browsers/tree/master/chrome-extension/)
@@ -39,12 +37,10 @@ context, and where possible, reducing it via whatever available configuration.
   * Source Code used for Test: https://github.com/eyedeekay/I2P-Configuration-for-Chromium
   * [Chromium Configuration](https://eyedeekay.github.io/I2P-Configuration-For-Chromium)(Debian GNU/Linux)
 
-```sh
-# Reproduce:
-  1: Install extension via the instructions
-  2: Copy-paste the following base32 address: http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
-  3: Press the fingerprint button.
-```
+        # Reproduce:
+          1: Install extension via the instructions
+          2: Copy-paste the following base32 address: http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
+          3: Press the fingerprint button.
 ## Deliberately misconfigured Firefox(HTTPS leak)
 
   * Standalone Page: [misconfigured firefox](https://github.com/eyedeekay/various-i2p-browsers/tree/master/firefox-esr)
@@ -52,12 +48,10 @@ context, and where possible, reducing it via whatever available configuration.
   * Source Code used for Test: N/A
   * Home Page: N/A
 
-```sh
-# Reproduce:
-  1: Configure Firefox to use a proxy by setting the common network settings
-  2: Copy-paste the following base32 address: http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
-  3: Press the fingerprint button.
-```
+        # Reproduce:
+          1: Configure Firefox to use a proxy by setting the common network settings
+          2: Copy-paste the following base32 address: http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
+          3: Press the fingerprint button.
 
 ## Minimal correct configuration for Firefox
 
@@ -67,21 +61,16 @@ context, and where possible, reducing it via whatever available configuration.
   * Source Code used for Test: N/A
   * Home Page: N/A
 
-```sh
-# Reproduce:
-  1: Configure Firefox to use a proxy by setting the common network settings
-  2: Copy-paste the following base32 address: http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
-  3: Press the fingerprint button.
-```
-
+        # Reproduce:
+          1: Configure Firefox to use a proxy by setting the common network settings
+          2: Copy-paste the following base32 address: http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
+          3: Press the fingerprint button.
 ## lynx
 
   * [lynx](https://github.com/eyedeekay/various-i2p-browsers/tree/master/lynx)(On Debian GNU/Linux)
 
-```sh
-# Command used:
-http_proxy=http:/127.0.0.1:4444 \/usr/bin/lynx http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
-```
+        # Command used:
+        http_proxy=http:/127.0.0.1:4444 \/usr/bin/lynx http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
 
 ![lynx scrot](https://github.com/eyedeekay/various-i2p-browsers/raw/master/lynx/lynx.png)
 
@@ -89,10 +78,9 @@ http_proxy=http:/127.0.0.1:4444 \/usr/bin/lynx http:/rcwtb3h46mcsm4jkpg5buinikn3
 
   * [elinks](https://github.com/eyedeekay/various-i2p-browsers/tree/master/elinks)(On Debian GNU/Linux)
 
-```sh
-# Command used:
-http_proxy=http:/127.0.0.1:4444 \/usr/bin/elinks http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
-```
+
+        # Command used:
+        http_proxy=http:/127.0.0.1:4444 \/usr/bin/elinks http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
 
 ![elinks scrot](https://github.com/eyedeekay/various-i2p-browsers/raw/master/elinks/elinks.png)
 
