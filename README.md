@@ -13,12 +13,10 @@ context, and where possible, reducing it via whatever available configuration.
   * Tested on: Windows 10
   * Source Code used for Test: https://github.com/eyedeekay/firefox.profile.i2p
 
-```sh
 # Reproduce:
   1: Open I2PBrowser launcher via the shortcut
   2: Copy-paste the following base32 address: http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
   3: Press the fingerprint button.
-```
 ## I2P in Private Browsing Mode Firefox Extension
 
   * Standalone Page: [firefox.profile.i2p](https://github.com/eyedeekay/various-i2p-browsers/tree/master/firefox-extension/)
@@ -88,8 +86,6 @@ context, and where possible, reducing it via whatever available configuration.
 
   * [ungoogled-chromium](https://github.com/eyedeekay/various-i2p-browsers/tree/master/ungoogled-chromium)(On Debian GNU/Linux)
 
-```sh
-# Command used:
-\/usr/bin/chromium --incognito --proxy-server="http:/127.0.0.1:4444"  http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
-```
+        # Command used:
+        \/usr/bin/chromium --incognito --proxy-server="http:/127.0.0.1:4444"  http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
 
