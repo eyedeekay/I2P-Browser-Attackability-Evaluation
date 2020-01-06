@@ -17,6 +17,7 @@ context, and where possible, reducing it via whatever available configuration.
           1: Open I2PBrowser launcher via the shortcut
           2: Copy-paste the following base32 address: http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
           3: Press the fingerprint button.
+
 ## I2P in Private Browsing Mode Firefox Extension
 
   * Standalone Page: [firefox.profile.i2p](https://github.com/eyedeekay/various-i2p-browsers/tree/master/firefox-extension/)
@@ -28,6 +29,7 @@ context, and where possible, reducing it via whatever available configuration.
           1: Install I2P in Private Browsing Mode from [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/i2p-in-private-browsing/)
           2: Copy-paste the following base32 address: http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
           3: Press the fingerprint button.
+
 ## I2P Browsing Persona + I2P Proxifier Plugin on Chromium
 
   * Standalone Page: [firefox.profile.i2p](https://github.com/eyedeekay/various-i2p-browsers/tree/master/chrome-extension/)
@@ -39,6 +41,7 @@ context, and where possible, reducing it via whatever available configuration.
           1: Install extension via the instructions
           2: Copy-paste the following base32 address: http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
           3: Press the fingerprint button.
+
 ## Deliberately misconfigured Firefox(HTTPS leak)
 
   * Standalone Page: [misconfigured firefox](https://github.com/eyedeekay/various-i2p-browsers/tree/master/firefox-esr)
@@ -63,6 +66,7 @@ context, and where possible, reducing it via whatever available configuration.
           1: Configure Firefox to use a proxy by setting the common network settings
           2: Copy-paste the following base32 address: http:/rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p/
           3: Press the fingerprint button.
+
 ## lynx
 
   * [lynx](https://github.com/eyedeekay/various-i2p-browsers/tree/master/lynx)(On Debian GNU/Linux)
