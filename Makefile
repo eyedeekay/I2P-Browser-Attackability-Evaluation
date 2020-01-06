@@ -15,7 +15,7 @@ README:
 		firefox-esr/README.md \
 		lynx/README.md \
 		elinks/README.md \
-		ungoogled-chromium/README.md #\
+		ungoogled-chromium/README.md >> README.md #\
 		#i2pbrowser/README.md >> README.md
 
 index: README
