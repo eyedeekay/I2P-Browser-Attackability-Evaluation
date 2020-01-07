@@ -7,6 +7,6 @@
 
         # Reproduce:
           1: Install I2P in Private Browsing Mode from [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/i2p-in-private-browsing/)
-          2: Copy-paste the following base32 address: http:/teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p/
+          2: Copy-paste the following base32 address: http://teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p/
           3: Press the fingerprint button.
 

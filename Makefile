@@ -122,4 +122,5 @@ index: README
 	@echo "</html>" >> index.html
 
 sed:
-	sed -i 's|rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p|teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p|g' */*.md
+	#sed -i 's|rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p|teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p|g' */*.md
+	sed -i 's|http:/t|http://t|g' */*.md

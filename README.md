@@ -15,7 +15,7 @@ context, and where possible, reducing it via whatever available configuration.
 
         # Reproduce:
           1: Open I2PBrowser launcher via the shortcut
-          2: Copy-paste the following base32 address: http://hlsr2nncknfuedet3zoahm62p4epth57p3ahbf4fegz54zcxeqha.b32.i2p/
+          2: Copy-paste the following base32 address: http://teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p/
           3: Press the fingerprint button.
 
 ## I2P in Private Browsing Mode Firefox Extension
@@ -27,7 +27,7 @@ context, and where possible, reducing it via whatever available configuration.
 
         # Reproduce:
           1: Install I2P in Private Browsing Mode from [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/i2p-in-private-browsing/)
-          2: Copy-paste the following base32 address: http://hlsr2nncknfuedet3zoahm62p4epth57p3ahbf4fegz54zcxeqha.b32.i2p/
+          2: Copy-paste the following base32 address: http://teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p/
           3: Press the fingerprint button.
 
 ## Deliberately misconfigured Firefox(HTTPS leak)
@@ -39,7 +39,7 @@ context, and where possible, reducing it via whatever available configuration.
 
         # Reproduce:
           1: Configure Firefox to use a proxy by setting the common network settings
-          2: Copy-paste the following base32 address: http://hlsr2nncknfuedet3zoahm62p4epth57p3ahbf4fegz54zcxeqha.b32.i2p/
+          2: Copy-paste the following base32 address: http://teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p/
           3: Press the fingerprint button.
 
 ## Minimal correct configuration for Firefox
@@ -52,7 +52,7 @@ context, and where possible, reducing it via whatever available configuration.
 
         # Reproduce:
           1: Configure Firefox to use a proxy by setting the common network settings
-          2: Copy-paste the following base32 address: http://hlsr2nncknfuedet3zoahm62p4epth57p3ahbf4fegz54zcxeqha.b32.i2p/
+          2: Copy-paste the following base32 address: http://teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p/
           3: Press the fingerprint button.
 
 ## lynx
@@ -60,7 +60,7 @@ context, and where possible, reducing it via whatever available configuration.
   * [lynx](https://github.com/eyedeekay/various-i2p-browsers/tree/master/lynx)(On Debian GNU/Linux)
 
         # Command used:
-        http_proxy=http:/127.0.0.1:4444 \/usr/bin/lynx http://hlsr2nncknfuedet3zoahm62p4epth57p3ahbf4fegz54zcxeqha.b32.i2p/
+        http_proxy=http:/127.0.0.1:4444 \/usr/bin/lynx http://teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p/
 
 ![lynx scrot](https://github.com/eyedeekay/various-i2p-browsers/raw/master/lynx/lynx.png)
 
@@ -70,7 +70,7 @@ context, and where possible, reducing it via whatever available configuration.
 
 
         # Command used:
-        http_proxy=http:/127.0.0.1:4444 \/usr/bin/elinks http://hlsr2nncknfuedet3zoahm62p4epth57p3ahbf4fegz54zcxeqha.b32.i2p/
+        http_proxy=http:/127.0.0.1:4444 \/usr/bin/elinks http://teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p/
 
 ![elinks scrot](https://github.com/eyedeekay/various-i2p-browsers/raw/master/elinks/elinks.png)
 
@@ -79,7 +79,7 @@ context, and where possible, reducing it via whatever available configuration.
   * [ungoogled-chromium](https://github.com/eyedeekay/various-i2p-browsers/tree/master/ungoogled-chromium)(On Debian GNU/Linux)
 
         # Command used:
-        \/usr/bin/chromium --incognito --proxy-server="http:/127.0.0.1:4444"  http://hlsr2nncknfuedet3zoahm62p4epth57p3ahbf4fegz54zcxeqha.b32.i2p/
+        \/usr/bin/chromium --incognito --proxy-server="http:/127.0.0.1:4444"  http://teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p/
 
 ## I2P Browsing Persona + I2P Proxifier Plugin on Chromium
 
@@ -90,6 +90,6 @@ context, and where possible, reducing it via whatever available configuration.
 
         # Reproduce:
           1: Install extension via the instructions
-          2: Copy-paste the following base32 address: http://hlsr2nncknfuedet3zoahm62p4epth57p3ahbf4fegz54zcxeqha.b32.i2p/
+          2: Copy-paste the following base32 address: http://teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p/
           3: Press the fingerprint button.
 

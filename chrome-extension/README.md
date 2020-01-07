@@ -7,6 +7,6 @@
 
         # Reproduce:
           1: Install extension via the instructions
-          2: Copy-paste the following base32 address: http:/teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p/
+          2: Copy-paste the following base32 address: http://teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p/
           3: Press the fingerprint button.
 

@@ -7,7 +7,7 @@
 
         # Reproduce:
           1: Configure Firefox to use a proxy by setting the common network settings
-          2: Copy-paste the following base32 address: http:/teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p/
+          2: Copy-paste the following base32 address: http://teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p/
           3: Press the fingerprint button.
 
 ## Minimal correct configuration for Firefox
@@ -20,6 +20,6 @@
 
         # Reproduce:
           1: Configure Firefox to use a proxy by setting the common network settings
-          2: Copy-paste the following base32 address: http:/teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p/
+          2: Copy-paste the following base32 address: http://teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p/
           3: Press the fingerprint button.
 
