@@ -120,3 +120,6 @@ index: README
 		sed 's|https://github.com/eyedeekay/various-i2p-browsers/tree/master||g' | markdown | tee -a index.html
 	@echo "</body>" >> index.html
 	@echo "</html>" >> index.html
+
+sed:
+	sed -i 's|rcwtb3h46mcsm4jkpg5buinikn3oxc7j54wgokxuupmyquifhuvq.b32.i2p|teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p|g' */*.md
