@@ -10,3 +10,9 @@
           2: Copy-paste the following base32 address: http://teqk4zxf7xmfc7qtdepnaulopax4fzq3mwbfjfutdxqdvfp3dp2q.b32.i2p/
           3: Press the fingerprint button.
 
+These 2 screenshots are from the same Firefox at the same time. As you can see, 
+the fingerprints differ and obuscation measures have been taken.
+
+![firefox scrot](https://github.com/eyedeekay/various-i2p-browsers/raw/master/firefox-extension/tab1.png)
+![firefox scrot](https://github.com/eyedeekay/various-i2p-browsers/raw/master/firefox-extension/tab2.png)
+
